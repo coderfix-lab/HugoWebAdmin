@@ -1,0 +1,1 @@
+<h1 style="color: #ffffff;font-size: 1.1em" > HugoWebAdmin<?= $title ?> </h1>

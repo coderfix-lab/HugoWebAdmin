@@ -1,6 +1,11 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+vendor/
+node_modules/
+npm-debug.log
+
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+
+.idea
